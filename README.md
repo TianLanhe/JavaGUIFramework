@@ -1,0 +1,2 @@
+# JavaGUIFramework
+模仿安卓R类处理JavaGUI控件获取的小技巧
